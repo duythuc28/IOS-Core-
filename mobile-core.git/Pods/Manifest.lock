@@ -1,0 +1,83 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - DATAFilter (0.8.1):
+    - DATAObjectIDs
+  - DATAObjectIDs (0.5.0)
+  - DATAStack (3.0.4):
+    - NSObject-HYPTesting (~> 1.2)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FMDBHelpers (0.0.7):
+    - FMDB (~> 2.3)
+  - JSONModel (1.1.0)
+  - MagicalRecord (2.3.0)
+  - NSDictionary-ANDYSafeValue (0.3)
+  - NSEntityDescription-SYNCPrimaryKey (0.1.0):
+    - NSString-HYPNetworking
+  - NSManagedObject-HYPPropertyMapper (3.0.4):
+    - NSString-HYPNetworking (~> 0.3.2)
+  - NSObject-HYPTesting (1.2)
+  - NSString-HYPNetworking (0.3.2)
+  - Reachability (3.2)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - Sync (1.0.5):
+    - DATAFilter (~> 0.8.1)
+    - DATAStack (~> 3.0.4)
+    - NSDictionary-ANDYSafeValue (~> 0.3)
+    - NSEntityDescription-SYNCPrimaryKey (~> 0.1.0)
+    - NSManagedObject-HYPPropertyMapper (~> 3.0.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - FMDB
+  - FMDBHelpers
+  - JSONModel
+  - MagicalRecord
+  - Reachability
+  - SDWebImage
+  - Sync
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  DATAFilter: 3f89692f7c52dd3c3973287ee8c9bb2c0e76d344
+  DATAObjectIDs: 472eae6d8d6b57109b973c837ec3dd5e78016ab6
+  DATAStack: de58e278b0487ff5a508d158cc74dd8b5e302389
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  FMDBHelpers: c6bd06c59049d51d9072180f253b6ee53f695bf3
+  JSONModel: ec77e9865236a7a09d9cf7668df6b4b328d9ec1d
+  MagicalRecord: 89eb7d7ead39fb37f01c3d010665ee94d17f8dba
+  NSDictionary-ANDYSafeValue: c15ff39a6b1b82a52ea277c64520c7b574715afc
+  NSEntityDescription-SYNCPrimaryKey: 72f1f0d30a7e8eb9d93277b1ce623cbaa6e47a38
+  NSManagedObject-HYPPropertyMapper: 165dc76cc94e9a59e0c86b19aee974e20db47c36
+  NSObject-HYPTesting: fadde70c75061b731b313c390e20777aed0a914d
+  NSString-HYPNetworking: f95766d4dc5693b45a0331ab8cf3a0b998f38cd7
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  Sync: 984b6dfb10cf8a7df97e7bfe22e1babb403fd4c7
+
+COCOAPODS: 0.37.2

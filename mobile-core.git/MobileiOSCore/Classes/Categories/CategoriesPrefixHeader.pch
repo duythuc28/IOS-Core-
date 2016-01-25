@@ -1,0 +1,21 @@
+//
+//  CategoriesPrefixHeader.pch
+//  iOSCore
+//
+//  Created by MacMini on 7/10/15.
+//  Copyright (c) 2015 Duong Tran. All rights reserved.
+//
+
+#ifndef iOSCore_CategoriesPrefixHeader_pch
+#define iOSCore_CategoriesPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "NSObject+Database.h"
+#import "AppDelegate+Notification.h"
+#import "UIFont+Custom.h"
+#import "UIView+Custom.h"
+#import "UIImageView+Custom.h"
+
+#endif

@@ -1,0 +1,1 @@
+PODS_MOBILEIOSCORE_DATASTACK_OTHER_LDFLAGS = -framework "CoreData" -framework "Foundation"

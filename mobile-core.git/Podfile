@@ -1,0 +1,16 @@
+platform :ios, '7.0'
+
+target :MobileiOSCore, :exclusive => true do
+  pod 'AFNetworking'
+  pod 'Reachability'
+  pod 'JSONModel'
+  pod 'FMDB'
+  pod 'FMDBHelpers'
+  
+  pod 'MagicalRecord'
+  pod 'Sync'
+  
+  pod 'SDWebImage'
+  
+end
+

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_MobileiOSCore_NSEntityDescription_SYNCPrimaryKey : NSObject
+@end
+@implementation PodsDummy_Pods_MobileiOSCore_NSEntityDescription_SYNCPrimaryKey
+@end

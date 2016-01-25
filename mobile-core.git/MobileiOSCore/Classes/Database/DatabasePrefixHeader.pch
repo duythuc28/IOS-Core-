@@ -1,0 +1,31 @@
+//
+//  DatabasePrefixHeader.pch
+//  iOSCore
+//
+//  Created by MacMini on 7/10/15.
+//  Copyright (c) 2015 Duong Tran. All rights reserved.
+//
+
+#ifndef iOSCore_DatabasePrefixHeader_pch
+#define iOSCore_DatabasePrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#pragma mark - Define
+
+#define DATABASE_NAME   @"iOSCoreDatabase.db"
+
+// table name
+#define TABLE_NAME_1    @""
+#define TABLE_NAME_2    @""
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Cocoapods
+
+#import "FMDatabase.h"
+#import "FMDatabase+FMDBHelpers.h"
+#import "FMResultSet.h"
+
+#endif

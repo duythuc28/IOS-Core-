@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C10144E-D165-4E4A-84C8-C590F5D91866</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS7SwiftCore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3C38DF4948A911F5244EB0CE4E82A4ED1C2F8BA8</key>
+		<string>https://github.com/duongifc/-iOS7-Swift-Core.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS7SwiftCore/iOS7SwiftCore.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3C38DF4948A911F5244EB0CE4E82A4ED1C2F8BA8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/duongifc/-iOS7-Swift-Core.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3C38DF4948A911F5244EB0CE4E82A4ED1C2F8BA8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3C38DF4948A911F5244EB0CE4E82A4ED1C2F8BA8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%5B%3E=iOS7%5D%20Swift%20Core</string>
+		</dict>
+	</array>
+</dict>
+</plist>

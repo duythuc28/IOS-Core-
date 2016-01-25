@@ -1,0 +1,53 @@
+//
+//  WebservicePrefixHeader.pch
+//  WebServiceCore
+//
+//  Created by MacMini on 7/10/15.
+//  Copyright (c) 2015 Duong Tran. All rights reserved.
+//
+
+#ifndef WebServiceCore_WebServicePrefixHeader_pch
+#define WebServiceCore_WebServicePrefixHeader_pch
+
+#pragma mark - Webservice url
+
+#define WEBSERVICE_API_URL @""
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Networking
+
+#import "Networking.h"
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Parser
+
+#import "JsonSerializable.h"
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Paramaters
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Base Invoker
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Invokers
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Models
+
+/*** ----------------------------------------- ***/
+
+#pragma mark - Cocoapods
+
+#import "AFHTTPRequestOperation.h"
+#import "AFHTTPRequestOperationManager.h"
+#import "Reachability.h"
+
+#endif
+
